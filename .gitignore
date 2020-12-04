@@ -40,3 +40,4 @@ benchmarks/*.py[co]
 /wiki/
 /docs/
 /feedstock/
+root_key
